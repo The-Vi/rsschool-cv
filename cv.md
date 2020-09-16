@@ -1,22 +1,34 @@
 
-Junior Front-End developer(JavaScript)
+__Junior Front-End developer(JavaScript)__
 
 #Viktoriia Silchenko#
 
-Contacts
+__Contacts__
 
-C: +38 050 777 72 01 E: viktoria.yrievna@gmail.com
+C: +38 050 777 72 01   
+E: viktoria.yrievna@gmail.com
 
-Soft Skills:
+__Soft Skills:__
 
-*Self-motivated *attentive to details *communicable and friendly *team player *can decompose a complex problem into atomic subtasks *take responsibility for my actions
+*Self-motivated 
+*attentive to details 
+*communicable and friendly 
+*team player 
+*can decompose a complex problem into atomic subtasks 
+*take responsibility for my actions
 
-Tech Skills
+__Tech Skills__
 
-*HTML5 *CSS3 *JavaScript *GitHub *Visual Studio Code
+*HTML5 
+*CSS3 
+*JavaScript 
+*GitHub 
+*Visual Studio Code
 
-Projects
+__Projects__
 
-1.Ссылка на проект ............................... [ HTML5, CSS3 ] 1. 1.
+1.Ссылка на проект ............................... [ HTML5, CSS3 ] 
+2. 
+3.
 
-Education
+__Education__
